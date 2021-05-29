@@ -19,6 +19,6 @@ package org.apache.dubbo.demo;
 /**
  *
  */
-public interface GreetingService {
+public interface GreetingService { // 迎宾服务
     String hello();
 }
