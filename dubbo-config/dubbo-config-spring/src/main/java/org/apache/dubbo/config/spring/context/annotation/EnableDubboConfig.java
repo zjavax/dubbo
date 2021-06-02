@@ -72,6 +72,7 @@ public @interface EnableDubboConfig {
 
     /**
      * It indicates whether binding to multiple Spring Beans.
+     * 表示是否绑定到多个Spring Bean。
      *
      * @return the default value is <code>true</code>
      * @revised 2.5.9
